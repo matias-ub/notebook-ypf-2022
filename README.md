@@ -1,5 +1,5 @@
 # notebook-ypf-2022
-Notebook used for Data Science competition host by YPF in 2022
+Notebook used for Data Science competition host by [YPF](https://www.ypf.com/Paginas/home.aspx) in November 2022
 
 Basic EDA on some variables and target.
 Feature engineering.
